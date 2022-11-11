@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@hskregina 
-hskregina
-/
-first_streamlit_app
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-first_streamlit_app/streamlit_app.py /
-@hskregina
-hskregina Update streamlit_app.py
-Latest commit 97db4de 7 minutes ago
- History
- 1 contributor
-44 lines (32 sloc)  1.68 KB
-
 import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
